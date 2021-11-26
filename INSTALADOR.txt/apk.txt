@@ -1,0 +1,8 @@
+name="Acestream Mod"
+section="no"
+url="http://kodileia2.org/.../FamilyLeia/wizard/apk/Ace%20Stream%20Media%20v.3.1.42.6%20ADS%20Removed.apk"
+icon="http://"
+fanart="https://i.imgur.com/8Tbjjpu.jpg"
+adult="no"
+description="Ace Stream Media, necesario para ver deportes"
+

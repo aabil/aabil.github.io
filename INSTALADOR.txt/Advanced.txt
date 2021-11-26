@@ -1,0 +1,13 @@
+name="Ver por lista de dispositivos"
+url="https://pastebin.com/raw/sCXS7rfN"
+icon="https://i.imgur.com/yDzzBSb.png" 
+fanart="https://i.imgur.com/JpmVzii.jpg" 
+adult="no" 
+description="Cache por dispositivos"
+
+name="Ver por Conexion y RAM"
+url="https://pastebin.com/raw/kKFyy6Cc"
+icon="https://i.imgur.com/yDzzBSb.png" 
+fanart="https://i.imgur.com/JpmVzii.jpg" 
+adult="no" 
+description="Cache por dispositivos"
